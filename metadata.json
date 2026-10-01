@@ -1,0 +1,6 @@
+{
+  "name": "মাযহারুল উলূম মাদ্রাসা",
+  "description": "মাযহারুল উলূম মাদ্রাসার পূর্ণাঙ্গ ড্যাশবোর্ড, হাজিরা ট্র্যাকিং, ফলাফল, নোটিশ বোর্ড এবং কিতাব সিলেবাস ব্যবস্থাপনা অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
